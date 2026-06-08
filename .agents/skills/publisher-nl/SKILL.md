@@ -1,6 +1,6 @@
 ---
 name: publisher-nl
-description: Turn a finished, warrant-labelled analysis into a publishable Dutch markdown article. Use when the user asks to write/publish a completed analysis as an article ("schrijf een artikel", "maak er een publicabel stuk van", "publiceer dit", "turn this into a piece"). This skill writes only; it does not research. It preserves the warrant chain: no new load-bearing facts, no stronger phrasing than the analysis supports, weak claims hedged and attributed.
+description: 'Turn a finished, warrant-labelled analysis into a publishable Dutch markdown article. Use when the user asks to write/publish a completed analysis as an article ("schrijf een artikel", "maak er een publicabel stuk van", "publiceer dit", "turn this into a piece"). This skill writes only; it does not research. It preserves the warrant chain: no new load-bearing facts, no stronger phrasing than the analysis supports, weak claims hedged and attributed.'
 version: 1.0
 aligned: 2026-06-08
 ---
